@@ -1,5 +1,5 @@
-app_id : your_app_id_here
-app_key : your_key_here
-device : /dev/ttyUSB0
+app_id : 1031836
+app_key : 4300bc4bbe2f9cf193bee93ab96d9f64dfb643946db18ce5a341d9bf734a75a4
+device : /dev/ttyTHS0
 baudrate : 230400
 acm_port : /dev/ttyACM0
